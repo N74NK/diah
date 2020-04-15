@@ -1,1 +1,1 @@
-# Ini remote untuk auto update
+# Ini adalah remote untuk auto update
